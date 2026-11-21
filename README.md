@@ -1,2 +1,12 @@
-# Project2-Streamlit-LLM
-MSIS 5193 Project 2 - Streamlit web-based LLM application supporting TXT, PDF, DOCX, and HTML document uploads with question answering and abbreviation index generation using open-source and closed-source language models.
+# Project 2 - Web-Based LLM App
+
+MSIS 5193 Programming for Data Science and Analytics I
+
+Features:
+- Upload TXT, PDF, DOCX, and HTML documents
+- Ask questions about uploaded content
+- Generate abbreviation indexes from scientific articles
+- Open-source LLM implementation using Ollama (Llama 3)
+- Closed-source LLM implementation using Google Gemini
+
+Author: Jason Barr
